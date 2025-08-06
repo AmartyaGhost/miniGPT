@@ -117,18 +117,11 @@ I thank you for my follow. Walk ye were so?
 ## 📁 Project Structure
 
 ```
-gpt-from-scratch/
+minigpt/
 ├── minigpt-model.ipynb      # Main notebook with step-by-step implementation
-├── model.py                 # Clean model implementation
-├── train.py                 # Training script
-├── utils.py                 # Helper functions (tokenization, data loading)
-├── config.py                # Model and training configurations
 ├── input.txt                # Training data (Tiny Shakespeare)
 ├── README.md                # This file
-├── requirements.txt         # Python dependencies
-└── examples/                # Generated text examples
-    ├── training_progress.txt
-    └── sample_outputs.txt
+
 ```
 
 ⭐ **If you find this project helpful, please give it a star!** ⭐
